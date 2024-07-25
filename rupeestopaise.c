@@ -8,7 +8,7 @@ void main()
  float rupee;
  int paise;
 
- printf("ENter the rupee value: ");
+ printf("Enter the rupee value: ");
  scanf("%f",&rupee);
  paise=rupee*100;
  printf("The value in paise is: %d",paise);
